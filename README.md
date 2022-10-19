@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuha-yuha&show_icons=true&count_private=ture&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coconaDev&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuha-yuha&theme=dark" />
 </a>
 <!--
 **yuha-yuha/yuha-yuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
