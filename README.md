@@ -8,6 +8,7 @@
 
 #実績
 - 第33回高専プロコン本選出場
+- <br>
 
 <!--
 **yuha-yuha/yuha-yuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
