@@ -1,8 +1,10 @@
 ### Hi there 👋
-#最近の活動
+
+#最近の活動<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuha-yuha&show_icons=true&count_private=ture&theme=midnight-purple" />
 </a>
+<br>
 
 #実績
 - 第33回高専プロコン本選出場
